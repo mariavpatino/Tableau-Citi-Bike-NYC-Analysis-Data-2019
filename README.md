@@ -38,7 +38,7 @@ Technology Used:
 
 ![Stations](Images/StationsInfo_Dashboard.png)
 
-<br>
+<br><br>
 
 * Map: Popular Stations
 
@@ -46,13 +46,16 @@ Technology Used:
 
 ![Map](Images/Map.png)
 
+
+<br><br>
+
 * Dashboard: Use of the Service
 
 <br>
 
 ![UseService](Images/UseService_Dashboard.png)
 
-<br>
+<br><br>
 
 * Number of journeys made by age
 
@@ -60,7 +63,7 @@ Technology Used:
 
 ![AgeUse](Images/Age_Use.png)
 
-<br>
+<br><br>
 
 * Trip duration by age
 
@@ -68,4 +71,4 @@ Technology Used:
 
 ![AgeDuration](Images/Age_Duration.png)
 
-<br>
+<br><br>
